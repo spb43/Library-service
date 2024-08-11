@@ -1,0 +1,6 @@
+Faker
+pymongo
+boto3
+python-dotenv
+tqdm
+pyyaml

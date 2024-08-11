@@ -1,0 +1,16 @@
+{
+    "_id": "ObjectId()",
+    "model": "String",
+    "manufacturer": "String",
+    "serialNumber": "String",
+    "specifications": {
+      "maxFlightTime": "Number", // Maximum flight time in minutes
+      "maxSpeed": "Number", // Maximum speed in km/h
+      "weight": "Number", // Weight in grams
+      "operationalRange": "Number", // Operational range in meters
+      "seekerType": "String", // Camera resolution in megapixels
+    },
+    "status": "String", // e.g., "active", "maintenance", "decommissioned"
+    "tags": ["String"], // Array of tags for categorization or notes
+    "notes": "String" // Optional field for additional notes or comments
+  }

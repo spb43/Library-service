@@ -1,0 +1,15 @@
+{
+    "logs": [
+        {
+            "path": "/path/to/csv/file.csv", 
+            "logFormat": "csv",
+            "encrypted": true,
+            "logType": "telemetry",
+            "date": "ISO-DATE",
+            "source": {
+                "type": "Ground Station",
+                "id": ""
+            }
+        }
+      ]
+}

@@ -1,2 +1,4 @@
 # Library-service
-Service for collecting logs
+Library service for IoT logs management
+
+

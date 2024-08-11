@@ -1,0 +1,17 @@
+{
+  "_id": "ObjectId()",
+  "type": "text",
+  "fileName": "flight_log.txt",
+  "storageType": "s3",
+  "storageBucket": "your-storage-bucket-name",
+  "filePath": "logs/flight_log.txt",
+  "uploadDate": "ISODate('2024-02-03T10:45:00Z')",
+  "sourceId": "String", // Identifier for the original source of the file
+  "metadata": {
+    "flightID": "FL123456",
+    "uavModel": "DJI Inspire 2",
+    "logType": "flight",
+    "tags": ["flight_log", "operation", "diagnostics"]
+  },
+  "description": "Detailed flight log including telemetry and diagnostics."
+}  

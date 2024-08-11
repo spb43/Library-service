@@ -1,0 +1,5 @@
+{
+    "_id": "ObjectId()",
+    "storageType": "String", // e.g., "s3", "azure"
+    "description": "String" // Optional description of the storage
+  }

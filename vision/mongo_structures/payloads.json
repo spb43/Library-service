@@ -1,0 +1,13 @@
+{
+    "_id": "ObjectId()",
+    "payloadId": "PL123456789",
+    "name": "Alpha Camera Module",
+    "typeId": "ObjectId()",  // Reference to the one of payloads collection
+    "operationalStatus": "active",
+    "compatibility": [
+        "ObjectId()",  // Reference to the a collection
+      // List compatible UAV models
+    ],
+    "notes": "Designed for high-resolution aerial photography and video"
+  }
+  
