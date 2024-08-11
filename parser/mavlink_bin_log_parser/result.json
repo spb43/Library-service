@@ -1,0 +1,8414 @@
+[
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1103
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1203
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1304
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1405
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1505
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1605
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1705
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1805
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 1905
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2005
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2106
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2206
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2306
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2406
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2506
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2607
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2707
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2807
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 2907
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3007
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3108
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3208
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3308
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3408
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3508
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3608
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3709
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3809
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 3909
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4009
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4110
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4210
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4310
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4410
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4511
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4611
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4711
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4811
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 4911
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5012
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5112
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5212
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5312
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5412
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5512
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5613
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5713
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5813
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 5913
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6014
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6114
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6214
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6314
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6415
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6515
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6615
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6715
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6815
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 6916
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7016
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7116
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7216
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7317
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7417
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7517
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7617
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7717
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7818
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 7918
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8018
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8118
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8218
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8319
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8419
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8519
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8619
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8720
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8820
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 8920
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9020
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9121
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9221
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9321
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9421
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9521
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9622
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9722
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9822
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 9922
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10022
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10123
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10223
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10323
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10423
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10523
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10624
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10724
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10824
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 10924
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11024
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11124
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11225
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11325
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11425
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11525
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11625
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11725
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11826
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 11926
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12026
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12126
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12226
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12326
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12427
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12527
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12627
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12727
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12828
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 12928
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13028
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13128
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13228
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13329
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13429
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13529
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13629
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13729
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13829
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 13930
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14030
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14130
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14230
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14331
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14431
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14531
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14631
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14731
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14832
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 14932
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15032
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15132
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15232
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15332
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15433
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15533
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15633
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15733
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15833
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 15934
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16034
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16134
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16234
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16334
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16434
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16535
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16635
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16735
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16835
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 16935
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17036
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17136
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17236
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17336
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17436
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17536
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17637
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17737
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17837
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 17937
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18037
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18138
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18238
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18338
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18438
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18538
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18639
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18739
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18839
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 18939
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19039
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19139
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19240
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19340
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19440
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19540
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19640
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19740
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19841
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 19941
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20041
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20141
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20241
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20342
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20442
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20542
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20642
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20742
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20842
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 20943
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21043
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21143
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21243
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21343
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21444
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21544
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21644
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21744
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21844
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 21945
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22045
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22145
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22245
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22346
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22446
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22546
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22646
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22746
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22847
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 22947
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23047
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23147
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23247
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23348
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23448
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23548
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23648
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23749
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23849
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 23949
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24049
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24149
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24250
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24350
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24450
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24551
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24651
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24751
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24851
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 24952
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25052
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25152
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25252
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25352
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25453
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25553
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25653
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25753
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25854
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 25954
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26054
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26154
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26255
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26355
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26455
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26556
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26656
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26756
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26856
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 26957
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27057
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27157
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27257
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27358
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27458
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27558
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27658
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27758
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27859
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 27959
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28059
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28160
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28260
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28360
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28460
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28561
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28661
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28761
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28861
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 28961
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29062
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29162
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29262
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29362
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29463
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29563
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29663
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29763
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29863
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 29964
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30064
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30164
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30264
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30364
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30465
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30565
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30665
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30765
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30865
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 30966
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31066
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31166
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31266
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31366
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31467
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31567
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31667
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31767
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31867
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 31967
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32068
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32168
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32268
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32368
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32468
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32569
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32669
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32769
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32869
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 32969
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33070
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33170
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33270
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33370
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33470
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33571
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33671
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33771
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33871
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 33972
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34072
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34172
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34272
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34372
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34472
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34573
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34673
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34773
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34873
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 34973
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35074
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35174
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35274
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35374
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35474
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35574
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35675
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35775
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35875
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 35975
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36075
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36176
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36276
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36376
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36476
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36576
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36677
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36777
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36877
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 36977
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37077
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37178
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37278
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37378
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37478
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37578
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37679
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37779
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37879
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 37979
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38079
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38180
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38280
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38380
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38480
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38581
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38681
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38781
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38881
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 38981
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39082
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39182
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39282
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39382
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39482
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39583
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39683
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39783
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39883
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 39984
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40084
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40184
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40284
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40384
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40484
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40585
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40685
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40785
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40885
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 40985
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HEARTBEAT",
+    "type": 18,
+    "autopilot": 8,
+    "base_mode": 0,
+    "custom_mode": 0,
+    "system_status": 0,
+    "mavlink_version": 3
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 41086
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 41186
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 41286
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 41386
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "q": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "approach_x": NaN,
+    "approach_y": NaN,
+    "approach_z": NaN,
+    "time_usec": 41486
+  },
+  {
+    "mavpackettype": "HOME_POSITION",
+    "latitude": 0,
+    "longitude": 0,
+    "altitude": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 

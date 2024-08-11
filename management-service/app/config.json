@@ -1,0 +1,31 @@
+{
+    "logs": [
+        {
+            "path": "/home/spb/work/spb/Library-service/library-service/parser/mavlink_bin_log_parser/00000003_bin_1699614800982.csv", 
+            "logFormat": "csv",
+            "encrypted": true,
+            "logType": "telemetry",
+            "date": "2024-04-25",
+            "source": {
+                "type": "telemetry",
+                "sourceId": "ced9d841-4fc7-4dc1-a6d2-2ba02a47015e",
+                "sourceType": "groundStation"
+            },
+            "tags": ["development", "fieldTest"]
+        },
+        {
+            "path": "/home/spb/work/spb/Library-service/library-service/parser/mavlink_bin_log_parser/00000003_bin_1699614800982.csv", 
+            "logFormat": "csv",
+            "encrypted": true,
+            "logType": "telemetry",
+            "date": "2024-04-26",
+            "source": {
+                "type": "telemetry",
+                "sourceId": "ced9d841-4fc7-4dc1-a6d2-2ba02a47015e",
+                "sourceType": "groundStation"
+            },
+            "tags": ["development", "fieldTest"]
+        }
+      ]
+}
+  

@@ -1,0 +1,6 @@
+{
+    "_id": "ObjectId()",
+    "typeName": "String", // e.g., "JPEG", "PNG", "GIF"
+    "description": "String" // Optional description of the image type
+  }
+  

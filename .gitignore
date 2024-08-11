@@ -1,0 +1,12 @@
+parser/parsed
+data-samples/
+management-service/app/updater/config.yaml
+__pycache__/
+management-service/app/models/__pycache__
+management-service/testing/__pycache__
+.ipynb_checkpoints
+*.csv
+*.bin
+*.bin
+*.parquet
+*.tlog

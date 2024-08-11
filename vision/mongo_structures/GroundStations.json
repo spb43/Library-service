@@ -1,0 +1,19 @@
+{
+    "_id": ObjectId(),
+    "groundStationId": "GS123456789",  // Unique identifier for the Ground Station
+    "name": "Lambda Base",
+    "specifications": {
+      "antennaType": "High-Gain",
+      "frequencyRange": "2.3 GHz -  2.4GHz",
+      "maxRange": "10 km",
+      // Additional specifications as needed
+    },
+    "operationalStatus": "active",  // e.g., active, maintenance, offline
+    "capabilities": [
+      "videoReceiving",
+      "telemetryProcessing",
+      "remoteControl"
+      // List other capabilities as applicable
+    ],
+    "notes": "Lambda custom groundstation"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ObjectId()",
+    "title": "String",
+    "fileName": "String",
+    "typeId": "ObjectId()", // Reference to the ImageTypes collection
+    "storageId": "ObjectId()", // Reference to the Storage collection
+    "sourceId": "String", // Identifier for the original source of the image
+    "filePath": "String", // Path within the storage bucket/container
+    "uploadDate": "ISODate('YYYY-MM-DDTHH:MM:SSZ')",
+    "metadata": {
+      "resolution": "String", // e.g., "1920x1080"
+      "tags": ["String"], // Array of tags
+      "capturedDate": "ISODate('YYYY-MM-DDTHH:MM:SSZ')", // Date when the image was captured
+      "cameraModel": "String" // Camera model used to capture the image
+    },
+    "description": "String" // Optional description of the image
+  }
+  
