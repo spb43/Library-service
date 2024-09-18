@@ -5,7 +5,8 @@ __pycache__/
 management-service/app/models/__pycache__
 management-service/testing/__pycache__
 parser/mavlink_bin_log_parser/.ipynb_checkpoints
-config.json
+management-service/app/config.json
+parser/mavlink_bin_log_parser/result.json
 .ipynb_checkpoints
 *.csv
 *.bin
